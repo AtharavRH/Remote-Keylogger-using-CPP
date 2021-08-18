@@ -6,3 +6,4 @@ This is an basic remote keylogger which works silently under the hood and send t
 nc.exe -lvp 5555                   <- For Windows    
 nc -lvp 5555                       <- For Linux
 
+
